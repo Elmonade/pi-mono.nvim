@@ -1,6 +1,6 @@
 # pi-mono.nvim
 
-Neovim integration for [pi](https://github.com/mariozechner/pi-mono), an AI coding assistant.
+Neovim integration for [pi-mono](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent), an AI coding assistant.
 
 ## Features
 
@@ -13,7 +13,7 @@ Neovim integration for [pi](https://github.com/mariozechner/pi-mono), an AI codi
 ## Requirements
 
 - Neovim >= 0.10.0
-- [pi](https://github.com/mariozechner/pi-mono) binary installed
+- [pi-mono](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) binary installed
 - [snacks.nvim](https://github.com/folke/snacks.nvim) (recommended, for terminal and picker support)
 
 ## Installation
